@@ -20,7 +20,7 @@ Btw Im 17yo and I can do nothing.__.. a little C# and maybe a little python late
 
 
 <div>
-    <a href="https://wakatime.com/@itsgiulian"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=itsgiulian&layout=compact&theme=github_dark"></a>
+    <a href="https://wakatime.com/@itsgiulian"><img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=itsgiulian&layout=compact&theme=github_dark"></a>
  <!-- <a href="https://wakatime.com/@itsgiulian"><img width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgiulian&layout=compact&theme=github_dark"/></a> -->
 </div>
 
